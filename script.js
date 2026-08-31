@@ -10,7 +10,7 @@ function playSound(sound){
 	currentAudio.play();
 }
 
-doucument.getElementById("applause").addEventListener("click", function(){
+doucment.getElementById("applause").addEventListener("click", function(){
 	playSound("applause");
 });
 
